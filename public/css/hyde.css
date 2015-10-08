@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,100,100italic,300italic,200,200italic,300,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 /*
  *  __                  __
  * /\ \                /\ \
@@ -32,7 +33,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Exo 2", "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +57,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #333;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,22 +65,23 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 15.5rem;
     text-align: left;
   }
 }
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  font-weight: 300;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 3rem;
+  line-height: 1;
+  color: white;
+  font-family: "Exo 2";
 }
 
 /* Sidebar nav */
@@ -89,6 +90,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
+  color: #facac0;
   line-height: 1.75;
 }
 a.sidebar-nav-item:hover,
@@ -96,7 +98,8 @@ a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
-  font-weight: bold;
+  font-weight: 600;
+  color: white;
 }
 
 /* Sticky sidebar
@@ -110,7 +113,7 @@ a.sidebar-nav-item:focus {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
-    left:   1rem;
+    left:   0;
   }
 }
 
@@ -129,14 +132,14 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 17rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 18rem;
     margin-right: 4rem;
   }
 }
@@ -155,14 +158,14 @@ a.sidebar-nav-item:focus {
   }
   .layout-reverse .content {
     margin-left: 2rem;
-    margin-right: 20rem;
+    margin-right: 17em;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
-    margin-right: 22rem;
+    margin-right: 18rem;
   }
 }
 
