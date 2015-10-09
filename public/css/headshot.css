@@ -1,0 +1,17 @@
+.person {
+    text-align: center;
+    width: 10rem;
+    display: inline-block;
+    margin: 0 1rem
+}
+.person .name {
+    margin-bottom: 0.25rem;
+    font-weight: 300;
+}
+.person img {
+    width: 10rem;
+}
+.person .caption {
+    margin-top: 0px;
+    font-weight: 200;
+}
