@@ -3,24 +3,18 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /posts/:year/:title
 relative_permalinks: true
 
 # Setup
 title:            Aerospace Analytics Group
-tagline:          "part of the Aerospace Computational Design Lab at MIT"
 description:      "part of the Aerospace Computational Design Lab at MIT"
 url:              http://aeroa.mit.edu
 baseurl:          /
 
-#author:
-#  name:           'Mark Otto'
-#  url:            https://twitter.com/mdo
+author:
+  name:           'Aerospace Analytics Group'
+  url:            http://aeroa.mit.edu
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/aeroa/
+paginate_path: "/posts/:num"
