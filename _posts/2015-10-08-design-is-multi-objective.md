@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Design Optimization is Multi-Objective
+title: Design is Multi-Objective
 ---
 
 The hardest thing (in optimization) is figuring out what you want.
 Even if we assume that all your wants are quantifiable, they’re probably not modelable: that is to say,
 even if you can assign an objective number to how good a design is (e.g., yearly profit of an airplane model),
 you probably can’t derive it from simpler quantities (e.g., that model’s range and speed).
+
 If you can do both, congratulations!
-What you want is so mathematical that, to you, one design is always better, worse, or interchangeable with another.
-But for most problems a single want (profit) is too much to model,
+What you want is so mathematical that, to you, one design is always better, worse, or interchangeable with another. But for most problems a single want (profit) is too much to model,
 and so we’re left with too many wants (speed, range) as proxies.
+
 We need to explore a design space of competing alternatives, many of which have irreducable tradeoffs
 (e.g., between a fast short-hop plane and a slow long-distance one).
 The good news is that numerical optimization can take our complicated model straight to these tradeoffs;
