@@ -7,13 +7,13 @@ permalink:        /posts/:year/:title
 relative_permalinks: true
 
 # Setup
-title:            Aerospace Analytics Group
+title:            Hoburg Research Group
 description:      "part of the Aerospace Computational Design Lab at MIT"
 url:              http://aeroa.mit.edu
 baseurl:          /
 
 author:
-  name:           'Aerospace Analytics Group'
+  name:           'Hoburg Research Group'
   url:            http://aeroa.mit.edu
 
 paginate:         5
