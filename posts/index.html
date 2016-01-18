@@ -12,7 +12,12 @@ title: Posts
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">
+      {{ post.date | date_to_string }}
+      {% if post.author %}
+        | By {{ site.data.authors[post.author].name }}
+      {% endif %}
+    </span>
 
     {{ post.content }}
   </div>
