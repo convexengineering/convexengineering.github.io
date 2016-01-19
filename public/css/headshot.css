@@ -1,7 +1,7 @@
 .person {
     text-align: center;
     width: 10rem;
-    display: inline-block;
+    display: inline-table;
     margin: 0 1rem
 }
 .person .name {
