@@ -37,4 +37,4 @@ We're in the early stages of several exciting research projects with industrial 
 
 Beyond the details of these projects, I'd like us to push hard this term to 1) publish more journal papers, which we've gotten a slow start on, and 2) increase our web presence with occasional blog-post style updates about what we're working on and thinking about.
 
-And now -- back to work!
+And now, back to work!
