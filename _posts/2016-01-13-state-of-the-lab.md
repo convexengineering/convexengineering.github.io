@@ -6,7 +6,6 @@ author: whoburg
 
 A recent e-mail I sent to the lab:
 
-<tt>
 > Folks:
 
 > Welcome back from the holidays and happy 2016. I thought last night's State of the Union address a good occasion to reflect on our first 1.4 years of existence and where we're headed.
@@ -44,4 +43,3 @@ and publishing the models and methods we create.
 > See you on campus,
 
 > -Woody
-</tt>
