@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Design is Multi-Objective
+author: eburn
 ---
 
 The hardest thing (in optimization) is figuring out what you want.
