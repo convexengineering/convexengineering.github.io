@@ -16,20 +16,20 @@ In data science, a common refrain is that despite having lots of data, extractin
 How are we contributing?
 
 As you all know intimately, our group is exploring a new opportunity: using tools from convex optimization to tackle engineering design problems. As part of this effort, we've developed a new capability:
-[GPkit](http://github.com/convexopt/gpkit).
+[GPkit](http://github.com/hoburg/gpkit).
 Looking back over the past 1.5 years of development, including
-[1150 commits](http://github.com/convexopt/gpkit/commits/master)
+[1150 commits](http://github.com/hoburg/gpkit/commits/master)
 on GitHub,
-[289 resolved issues](http://github.com/convexopt/gpkit/issues?q=is:issue+is:closed),
-6 official [releases](http://github.com/convexopt/gpkit/releases) (we're now at version 0.3.4),
+[289 resolved issues](http://github.com/hoburg/gpkit/issues?q=is:issue+is:closed),
+6 official [releases](http://github.com/hoburg/gpkit/releases) (we're now at version 0.3.4),
 and 157 unit tests running nightly on Jenkins, GPkit is sure growing up. There's still a lot of work left to do: 72
-[open issues](http://github.com/convexopt/gpkit/issues) to address,
-continuing to improve [documentation](http://gpkit.readthedocs.org/en/latest/), some [internal refactoring](http://github.com/convexopt/gpkit/pull/493),
+[open issues](http://github.com/hoburg/gpkit/issues) to address,
+continuing to improve [documentation](http://gpkit.readthedocs.org/en/latest/), some [internal refactoring](http://github.com/hoburg/gpkit/pull/493),
 and more. Ned (with help from me) will be leading that effort. But we've built a great tool, and it's time to start using it. And breaking it. And fixing it for the better. Let's continue building up our
 [models library](http://github.com/aeroa/gpkit-models),
 and publishing the models and methods we create.
 
-We've made significant progress, but have more to do, on GP fitting — our tools for deriving convex optimization surrogate models from data sets. We recently submitted the final revision of a [journal paper](http://web.mit.edu/~whoburg/www/papers/gp_fitting.pdf) on GP fitting methods, and [GPfit](http://github.com/convexopt/gpfit) is our prototype software implementing those methods. GPfit would benefit from a more serious software development effort, maturing it to the level of GPkit. And there are potential connections to be made with (excuse the acronym overload) gaussian process (GP) regression methods. Mike Burton is starting a collaboration with Alex Felstein from Karen Willcox's group on exploring that possibility.
+We've made significant progress, but have more to do, on GP fitting — our tools for deriving convex optimization surrogate models from data sets. We recently submitted the final revision of a [journal paper](http://web.mit.edu/~whoburg/www/papers/gp_fitting.pdf) on GP fitting methods, and [GPfit](http://github.com/hoburg/gpfit) is our prototype software implementing those methods. GPfit would benefit from a more serious software development effort, maturing it to the level of GPkit. And there are potential connections to be made with (excuse the acronym overload) gaussian process (GP) regression methods. Mike Burton is starting a collaboration with Alex Felstein from Karen Willcox's group on exploring that possibility.
 
 Last summer, we began an exciting new line of research on Signomial Programming (SP). This gives us a middle ground between GP and general NLP that provides fewer mathematical guarantees, but applies to many more models, and admits disciplined solution methods that do not require trust regions. SP has received far less research attention than GP, and I believe we're quickly becoming positioned to contribute at the forefront of that field, both via new solution methods/algorithms, and also by identifying new applications. I expect this to result in several new publications, starting with Philippe's recent SciTech paper describing SP models for aircraft landing gear, fuselage, and vertical fin sizing.
 
