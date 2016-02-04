@@ -7,6 +7,7 @@ author: whoburg
 Welcome back from the holidays and happy 2016. I thought last night's State of the Union address a good occasion to reflect on our first 1.4 years of existence and where we're headed.
 
 When I applied to join MIT, I wrote a research statement describing some computational challenges in aircraft design. I wrote that,
+
 > <em>... despite the explosion in complexity, there is useful [mathematical] structure that we can (and must) find and exploit.</em>
 
 I was describing the idea that combining arbitrary computational building blocks often leads to intractable optimization problems, and that to make progress in optimization models one needs to study the intersection of problems that matter with problems that can be solved reliably. I find this is still true.
