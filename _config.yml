@@ -8,12 +8,12 @@ permalink:        /posts/:year/:title
 # Setup
 title:            Hoburg Research Group
 description:      "part of the Aerospace Computational Design Lab at MIT"
-url:              http://aeroa.mit.edu
+url:              http://hoburg.mit.edu
 baseurl:          /
 
 author:
   name:           'Hoburg Research Group'
-  url:            http://aeroa.mit.edu
+  url:            http://hoburg.mit.edu
 
 paginate:         5
 paginate_path: "/posts/:num"

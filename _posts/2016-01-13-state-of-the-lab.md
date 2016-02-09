@@ -27,7 +27,7 @@ and 157 unit tests running nightly on Jenkins, GPkit is sure growing up. There's
 [open issues](http://github.com/hoburg/gpkit/issues) to address,
 continuing to improve [documentation](http://gpkit.readthedocs.org/en/latest/), some [internal refactoring](http://github.com/hoburg/gpkit/pull/493),
 and more. Ned (with help from me) will be leading that effort. But we've built a great tool, and it's time to start using it. And breaking it. And fixing it for the better. Let's continue building up our
-[models library](http://github.com/aeroa/gpkit-models),
+[models library](http://github.com/hoburg/gpkit-models),
 and publishing the models and methods we create.
 
 We've made significant progress, but have more to do, on GP fitting — our tools for deriving convex optimization surrogate models from data sets. We recently submitted the final revision of a [journal paper](http://web.mit.edu/~whoburg/www/papers/gp_fitting.pdf) on GP fitting methods, and [GPfit](http://github.com/hoburg/gpfit) is our prototype software implementing those methods. GPfit would benefit from a more serious software development effort, maturing it to the level of GPkit. And there are potential connections to be made with (excuse the acronym overload) gaussian process (GP) regression methods. Mike Burton is starting a collaboration with Alex Felstein from Karen Willcox's group on exploring that possibility.
