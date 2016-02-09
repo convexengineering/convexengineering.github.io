@@ -1,7 +1,14 @@
 {% capture imgurl %}{{ site.baseurl }}public/images/headshots/square/{{ include.name }}.jpg{% endcapture %}
 
 <div class="person">
-    <h3 class="name">{{ include.name }}</h3>
-    <img src="{{ imgurl }}" alt=""/>
+  {% if include.href %}
+    <a href="{{ include.href }}">
+  {% endif %}
+  <h3 class="name">{{ include.name }}</h3>
+  {% if include.href %}
+    </a>
+  {% endif %}
+  <img src="{{ imgurl }}" alt=""/>
+
     <h4 class="caption"> {{ include.caption }}</h4>
 </div>
