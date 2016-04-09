@@ -19,13 +19,17 @@ Tackling engineering design problems using tools from convex optimization and co
 
 ### News
 <div class="news">
-<span>
+<p>
+  2016-03-29:
+  Congratulations to Mike Burton on winning an NSF Graduate Research Fellowship
+</p>
+<p>
   2016-01-31:
   Congratulations to Philippe and the rest of the 
   <a href="http://hyperloop.mit.edu/">MIT team</a>
   on
   <a href="http://www.wired.com/2016/02/mit-students-just-won-a-competition-to-design-a-hyperloop-pod/">winning</a>
   the SpaceX Hyperloop design competition
-</span>
+</p>
 </div>
 
