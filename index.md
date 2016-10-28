@@ -1,10 +1,12 @@
----
+-
+-
 layout: default
 title: Home
 ---
 
 Tackling engineering design problems using tools from convex optimization and computer science.
 
+<!--
 ### Recent posts
 <div class="posts">
   {% for post in site.posts %}
@@ -16,6 +18,7 @@ Tackling engineering design problems using tools from convex optimization and co
     </span>
   {% endfor %}
 </div>
+-->
 
 ### News
 <div class="news">
