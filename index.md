@@ -22,6 +22,10 @@ Tackling engineering design problems using tools from convex optimization and co
 ### News
 <div class="news">
 <p>
+  2016-10-07:
+  <a href="https://github.com/hoburg/gpkit">GPkit version 0.4.2</a> has been released.
+</p>
+<p>
   2016-05-18:
   <a href="https://github.com/hoburg/gpkit">GPkit version 0.4.1</a> has been released.
 </p>
