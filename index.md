@@ -12,7 +12,8 @@ Tackling engineering design problems using tools from convex optimization and co
       <a href="{{ post.url }}">{{ post.title }}</a>
       |
       {% if post.author %}{{ site.data.authors[post.author].name }},{% endif %}
-      {{ post.date | date_to_string }} 
+      {{ post.date | date_to_string }}
+      <br>
     </span>
   {% endfor %}
 </div>
