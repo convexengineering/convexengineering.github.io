@@ -5,6 +5,7 @@ title: Home
 
 Tackling engineering design problems using tools from convex optimization and computer science.
 
+
 ### Recent posts
 <div class="posts">
   {% for post in site.posts %}
@@ -18,12 +19,13 @@ Tackling engineering design problems using tools from convex optimization and co
   {% endfor %}
 </div>
 
+
 ### News
 <div class="news">
 <p>
   2016-10-07:
-  <a href = "https://github.com/hoburg/gpkit">GPkit version 0.4.2</a> has been released.  
-<p>
+  <a href="https://github.com/hoburg/gpkit">GPkit version 0.4.2</a> has been released.
+</p>
 <p>
   2016-05-18:
   <a href="https://github.com/hoburg/gpkit">GPkit version 0.4.1</a> has been released.
