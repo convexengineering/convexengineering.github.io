@@ -5,8 +5,8 @@ layout: default
 
 <div class="publication">
   <h1 class="publication-title">{{ page.title }}</h1>
-  <span class="publication-date">
-    {{ page.date | date_to_string }}
+  <span class="publication-year">
+    {{ page.year | date_to_string }}
     {% if author %}
       | By {{ author.name }}
     {% endif %}
