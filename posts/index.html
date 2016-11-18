@@ -15,7 +15,7 @@ title: Posts
     <span class="post-date">
       {{ post.date | date_to_string }}
       {% if post.author %}
-        | By {{ site.data.authors[post.author].name }}
+        | by {{ site.data.authors[post.author].name }}
       {% endif %}
     </span>
 
