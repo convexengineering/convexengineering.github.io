@@ -19,12 +19,12 @@ title: Posts
       {% endif %}
     </span>
 
-    <!--{{ post.content }}-->
+    {{ post.content }}
   </div>
   {% endfor %}
 </div>
 
-<!-- <div class="pagination">
+<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/posts/{{paginator.next_page}}">Older</a>
   {% else %}
@@ -40,4 +40,3 @@ title: Posts
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
- -->
