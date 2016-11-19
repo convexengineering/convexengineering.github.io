@@ -23,6 +23,12 @@ bozturk:
 mayork:
     name: Martin York
     email: mayork@mit.edu
+saab:
+    name: Ali Saab
+    email: saab@mit.edu
+arthurb:
+    name: Arthur Brown
+    email: arthurb@mit.edu
 bjarni:
     name: Bjarni Kristinsson
     email: bjarni@mit.edu
