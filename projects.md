@@ -27,7 +27,7 @@ A library of modular GP, SP, and SGP models for use in engineering design optimi
 
 <div class="news">
 <p>
-  2016-07-10:
+  2016-03-06:
   <a href="posts/2016/NPV">Net Present Value Model</a>
 </p>
 </div>
