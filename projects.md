@@ -27,6 +27,10 @@ A library of modular GP, SP, and SGP models for use in engineering design optimi
 
 <div class="news">
 <p>
+  2016-11-21:
+  <a href="posts/2016/Beam-Bending">Moment of Inertia GP Formulation</a>
+</p>
+<p>
   2016-03-06:
   <a href="posts/2016/NPV">Net Present Value Model</a>
 </p>
