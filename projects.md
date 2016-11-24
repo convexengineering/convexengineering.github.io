@@ -9,7 +9,7 @@ title: Projects
 Design optimization of a long-endurance, medium altitude unmanned aircraft, whose mission is to provide communications coverage to areas affected by natural disasters. Development continues as part of the 16.82 Flight Vehicle Engineering Capstone course at MIT. 
 
 ### D8 Double Bubble
-[Github](https://github.com/hoburg/gpkit-models/tree/aircraft_mission_class)
+[Github](https://github.com/hoburg/d8)
 
 Formulation of Mark Drela's Transport Aircraft System Optimization (TASOPT) in SP.
 
