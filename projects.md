@@ -18,7 +18,9 @@ GPkit is a Python package for defining and manipulating geometric programming (G
 ### D8 Double Bubble
 [Github](https://github.com/hoburg/d8)
 
-Formulation of Mark Drela's Transport Aircraft System Optimization (TASOPT) in SP.
+The D8 is a commercial aircraft configuration conceived by Prof. Mark Drela that is believed to enable dramatic fuel efficiency benefits.
+Although the benefits are well-studied for specific cases like a single-aisle replacement, relatively little is known about how the configuration benefit changes across a wide range of aircraft sizes.
+We are converting commercial aircraft sizing models from Drela's Transport Aircraft System Optimization (TASOPT) and other sources to Signomial Programming compatible forms, to enable rapid design space exploration and sensitivity analysis.
 
 <div class="news">
 <p>
@@ -30,12 +32,12 @@ Formulation of Mark Drela's Transport Aircraft System Optimization (TASOPT) in S
 ### Jungle Hawk Owl
 [Github](https://www.github.com/hoburg/jho)
 
-Design optimization of a long-endurance, medium altitude unmanned aircraft, whose mission is to provide communications coverage to areas affected by natural disasters. Development continues as part of the 16.82 Flight Vehicle Engineering Capstone course at MIT. 
+As part of the 16.82 Flight Vehicle Engineering Capstone course at MIT, GPkit is being used for design optimization of a long-endurance, medium altitude unmanned aircraft, whose mission is to provide communications coverage to areas affected by natural disasters or other scenarios.
 
 ### Model Library
 [Github](https://www.github.com/hoburg/gpkit-models)
 
-A library of modular GP, SP, and SGP models for use in engineering design optimization.
+A growing library of modular GP, and SP models for use in engineering design optimization.
 
 <div class="news">
 <p>
