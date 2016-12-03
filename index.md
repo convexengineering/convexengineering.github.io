@@ -28,7 +28,7 @@ Tackling engineering design problems with tools from convex optimization.
 </p>
 <p>
   2016-01-31:
-  Congratulations to Philippe and the rest of the 
+  Congratulations to Philippe Kirschen and the rest of the 
   <a href="http://hyperloop.mit.edu/">MIT team</a>
   on
   <a href="http://www.wired.com/2016/02/mit-students-just-won-a-competition-to-design-a-hyperloop-pod/">winning</a>
