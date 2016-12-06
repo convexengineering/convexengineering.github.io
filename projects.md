@@ -10,6 +10,10 @@ GPkit is a Python package for defining and manipulating geometric programming (G
 
 <div class="news">
 <p>
+  2015-03-12:
+  <a href="posts/2016/gpkit-050">GPkit v0.5.0 released</a>
+</p>
+<p>
   2016-07-10:
   <a href="posts/2016/GPkit-Release">GPkit v0.4.2 released</a>
 </p>
