@@ -20,7 +20,7 @@ paginate_path: "/posts/:num"
 
 roles:
     - {key: Principal Investigator, name: Principal Investigator, display: full}
-    - {key: PhD Student, name: PhD Student, display: full}
-    - {key: Master's Student, name: Master's Student, display: full}
-    - {key: Undergraduate Researcher, name: Undergraduate Researcher, display: full}
-    - {key: Alumni, name: Alumni, display: short}
+    - {key: PhD Student, name: PhD Students, display: short}
+    - {key: Master's Student, name: Master's Students, display: short}
+    - {key: Undergraduate Researcher, name: Undergraduate Researchers, display: short}
+    - {key: Alumnus, name: Alumni, display: short}
