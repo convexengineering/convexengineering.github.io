@@ -1,67 +1,87 @@
-# Author details
+# People details
 eburn:
-    name: Ned Burnell
+    display_name: Ned Burnell
     email: eburn@mit.edu
     role: Master's Student
+    img:
+    webpage:
     bio: 
 whoburg:
-    name: Warren Hoburg
+    display_name: Warren Hoburg
     email: whoburg@mit.edu
     role: Principal Investigator
+    img:
+    webpage:
     bio: 
 kirschen:
-    name: Philippe Kirschen
+    display_name: Philippe Kirschen
     email: kirschen@mit.edu
     role: Alumni
+    img:
+    webpage:
     bio: 
 ckarcher:
-    name: Cody Karcher
+    display_name: Cody Karcher
     email: ckarcher@mit.edu
     role: Master's Student
+    img: Cody Karcher.jpg
+    webpage:
     bio: 
 snill:
-    name: Scott Nill
+    display_name: Scott Nill
     email: snill@mit.edu
     role: PhD Student
+    img:
+    webpage:
     bio: 
 mjburton:
-    name: Michael Burton
+    display_name: Michael Burton
     email: mjburton@mit.edu
     role: Master's Student
-    bio: |
-    Michael Burton is a Master's candidate in the Aeronautical and Astronautical Engineering department at MIT. Michael received a B.S. in Aerospace Engineering from MIT. He specializes in geometric programming optimization and systems engineering in the Aerospace Computational Dynamics Laboratory. Michael is a recipient of both the MIT Presidential and NSF Graduate Research Fellowships.
+    img:
+    webpage:
+    bio: Michael Burton is a Master's candidate in the Aeronautical and Astronautical Engineering department at MIT. Michael received a B.S. in Aerospace Engineering from MIT. He specializes in geometric programming optimization and systems engineering in the Aerospace Computational Dynamics Laboratory. Michael is a recipient of both the MIT Presidential and NSF Graduate Research Fellowships.
 bozturk:
-    name: Berk Ozturk
+    display_name: Berk Ozturk
     email: bozturk@mit.edu
     role: Master's Student
-    bio: |
-    Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT. He received his B.S. in Aerospace Engineering from MIT. He is interested in the application of geometric and signomial programming for the design and sensitivity analysis of novel aircraft concepts.
+    img:
+    webpage:
+    bio: Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT. He received his B.S. in Aerospace Engineering from MIT. He is interested in the application of geometric and signomial programming for the design and sensitivity analysis of novel aircraft concepts.
 mayork:
-    name: Martin York
+    display_name: Martin York
     email: mayork@mit.edu
     role: Master's Student
-    bio: |
-    Martin York is a Master’s candidate in the Aeronautical and Astronautical Engineering department at MIT. His research focuses on using signomial programming for aircraft conceptual design optimization. He is a member of the Hoburg Research Group’s D8 team, where he is working with Aurora Flight Sciences to perform a sensitivity and scaling analysis of the D8 aircraft concept. Martin is a cadet in Air Force ROTC and will commission into the Air Force, where he hopes to pursue a career as a pilot, upon completion of his Master’s degree.
+    img:
+    webpage:
+    bio: Martin York is a Master’s candidate in the Aeronautical and Astronautical Engineering department at MIT. His research focuses on using signomial programming for aircraft conceptual design optimization. He is a member of the Hoburg Research Group’s D8 team, where he is working with Aurora Flight Sciences to perform a sensitivity and scaling analysis of the D8 aircraft concept. Martin is a cadet in Air Force ROTC and will commission into the Air Force, where he hopes to pursue a career as a pilot, upon completion of his Master’s degree.
 saab:
-    name: Ali Saab
+    display_name: Ali Saab
     email: saab@mit.edu
     role: Master's Student
-    bio: |
-    Ali received a BE in Mechanical Engineering and a BS in Mathematics from the American University of Beirut (AUB) in 2016. As an undergraduate, he was a member of the Microfluidics lab and worked on designing a surface tension actuated micropump. In his final year project, he used stochastic sampling to design fast algorithms for inverse particle tracking in stochastic flow fields. He was a visiting student at MIT in the Aerospace Computational Design Laboratory (ACDL), and worked with the Uncertainty Quantification Group on implementing the mathematical model of the sap exudation in maple trees using MUQ, and then inferring the uncertain inputs to that model using MCMC methods. In 2016, he began his MS in Computations for Design and Optimization at MIT, and is currently working on Robust Geometric Programming formulations.
+    img:
+    webpage:
+    bio: Ali received a BE in Mechanical Engineering and a BS in Mathematics from the American University of Beirut (AUB) in 2016. As an undergraduate, he was a member of the Microfluidics lab and worked on designing a surface tension actuated micropump. In his final year project, he used stochastic sampling to design fast algorithms for inverse particle tracking in stochastic flow fields. He was a visiting student at MIT in the Aerospace Computational Design Laboratory (ACDL), and worked with the Uncertainty Quantification Group on implementing the mathematical model of the sap exudation in maple trees using MUQ, and then inferring the uncertain inputs to that model using MCMC methods. In 2016, he began his MS in Computations for Design and Optimization at MIT, and is currently working on Robust Geometric Programming formulations.
 arthurb:
-    name: Arthur Brown
+    display_name: Arthur Brown
     email: arthurb@mit.edu
     role: Master's Student
+    img:
+    webpage:
     bio: 
 bjarni:
-    name: Bjarni Kristinsson
+    display_name: Bjarni Kristinsson
     email: bjarni@mit.edu
     role: Undergraduate Researcher
+    img:
+    webpage:
     bio: 
 lochie:
-    name: Lochie Ferrier
+    display_name: Lochie Ferrier
     email: lochie@mit.edu
     role: Undergraduate Researcher
+    img:
+    webpage:
     bio: 
 
 
