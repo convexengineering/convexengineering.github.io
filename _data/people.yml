@@ -40,35 +40,63 @@ mjburton:
     role: Master's Student
     img: michael.jpg
     webpage:
-    bio: Michael Burton is a Master's candidate in the Aeronautical and Astronautical Engineering department at MIT. Michael received a B.S. in Aerospace Engineering from MIT. He specializes in geometric programming optimization and systems engineering in the Aerospace Computational Dynamics Laboratory. Michael is a recipient of both the MIT Presidential and NSF Graduate Research Fellowships.
+    bio: <sub> Michael Burton is a Master's candidate in the Aeronautical and Astronautical Engineering department at MIT. 
+        Michael received a B.S. in Aerospace Engineering from MIT. He specializes in geometric programming optimization 
+        and systems engineering in the Aerospace Computational Dynamics Laboratory. Michael is a recipient of both the 
+        MIT Presidential and NSF Graduate Research Fellowships.
 bozturk:
     display_name: Berk Ozturk
     email: bozturk@mit.edu
     role: Master's Student
     img: berk.jpg
     webpage:
-    bio: Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT. He received his B.S. in Aerospace Engineering from MIT. He is interested in the application of geometric and signomial programming for the design and sensitivity analysis of novel aircraft concepts.
+    bio: |
+        <sub> Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT.
+        He received his B.S. in Aerospace Engineering from MIT. He is interested in the application of geometric and signomial programming 
+        for the design and sensitivity analysis of novel aircraft concepts.
 mayork:
     display_name: Martin York
     email: mayork@mit.edu
     role: Master's Student
     img: martin.jpg
     webpage:
-    bio: Martin York is a Master’s candidate in the Aeronautical and Astronautical Engineering department at MIT. His research focuses on using signomial programming for aircraft conceptual design optimization. He is a member of the Hoburg Research Group’s D8 team, where he is working with Aurora Flight Sciences to perform a sensitivity and scaling analysis of the D8 aircraft concept. Martin is a cadet in Air Force ROTC and will commission into the Air Force, where he hopes to pursue a career as a pilot, upon completion of his Master’s degree.
+    bio: <sub> Martin York is a Master’s candidate in the Aeronautical and Astronautical Engineering department at MIT.
+     His research focuses on using signomial programming for aircraft conceptual design optimization. 
+     He is a member of the Hoburg Research Group’s D8 team, where he is working with Aurora Flight Sciences to 
+     perform a sensitivity and scaling analysis of the D8 aircraft concept. 
+     Martin is a cadet in Air Force ROTC and will commission into the Air Force, 
+     where he hopes to pursue a career as a pilot, upon completion of his Master’s degree.
 saab:
     display_name: Ali Saab
     email: saab@mit.edu
     role: Master's Student
     img: ali.jpg
     webpage:
-    bio: Ali received a BE in Mechanical Engineering and a BS in Mathematics from the American University of Beirut (AUB) in 2016. As an undergraduate, he was a member of the Microfluidics lab and worked on designing a surface tension actuated micropump. In his final year project, he used stochastic sampling to design fast algorithms for inverse particle tracking in stochastic flow fields. He was a visiting student at MIT in the Aerospace Computational Design Laboratory (ACDL), and worked with the Uncertainty Quantification Group on implementing the mathematical model of the sap exudation in maple trees using MUQ, and then inferring the uncertain inputs to that model using MCMC methods. In 2016, he began his MS in Computations for Design and Optimization at MIT, and is currently working on Robust Geometric Programming formulations.
+    bio: <sub> Ali received a BE in Mechanical Engineering and a BS in Mathematics from the American University of Beirut (AUB) in 2016.
+     As an undergraduate, he was a member of the Microfluidics lab and worked on designing a surface tension actuated micropump.
+     In his final year project, he used stochastic sampling to design fast algorithms for inverse particle tracking in stochastic flow fields.
+     He was a visiting student at MIT in the Aerospace Computational Design Laboratory (ACDL),
+     and worked with the Uncertainty Quantification Group on implementing the mathematical model of the sap exudation in maple trees using MUQ,
+     and then inferring the uncertain inputs to that model using MCMC methods. In 2016, he began his MS in Computations for 
+     Design and Optimization at MIT, and is currently working on Robust Geometric Programming formulations.
 arthurb:
     display_name: Arthur Brown
     email: arthurb@mit.edu
     role: Master's Student
     img: arthur.jpg
     webpage:
-    bio: 
+    bio: <sub> Arthur received a Bachelor's degree in Engineering Science from the University of Toronto in 2016,
+     majoring in Aerospace Engineering. As an undergraduate, he spent a summer working in the Computational Aerodynamics Lab at the 
+     University of Toronto Institute for Aerospace Studies (UTIAS). Using high-fidelity Reynolds-Averaged Navier-Stokes 
+     aerodynamic shape optimization, he successfully redesigned a series of airliner wings to burn less fuel by flying lower and more slowly.
+     He also worked for a year as an aerodynamicist with Blue Sky Solar Racing, the University of Toronto solar car racing team;
+     and for a summer in the same capacity with U of T's Human-Powered Vehicle Design Team.
+     In 2015, he became the first ever Canadian student to win the AIAA Aircraft Design Competition,
+     with an entry in the Undergraduate Individual category; he placed second in the same contest in 2016.
+     He is now a Master's candidate in Aeronautics and Astronautics at MIT.
+     His research interests are primarily in clean-sheet design of innovative aircraft concepts,
+     and he is currently working on projects relating to the design and optimization of electric aircraft.
+     In his spare time, Arthur is an avid fisherman; he also enjoys long-distance running, basketball, military history, and chess. 
 bjarni:
     display_name: Bjarni Kristinsson
     email: bjarni@mit.edu
