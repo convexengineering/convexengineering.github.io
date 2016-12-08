@@ -3,6 +3,7 @@ layout: page
 title: People
 ---
 
+<!--
 <style> .content.container { max-width: none; } </style>
 
 {% include headshot.html name="Warren Hoburg" caption="Principal Investigator" href="http://web.mit.edu/~whoburg/www/" %}
@@ -31,3 +32,68 @@ title: People
 
 <h1>Alumni </h1>
 {% include headshot.html name = "Philippe Kirschen" caption="SM in Aerospace Engineering, 2016" %}
+-->
+
+{% for role in site.roles %}
+  <h3>{{ role.name }}</h3>
+  {% if role.display == "full" %}
+    <dl class="dl-horizontal people">
+    {% for item in site.data.people %}
+      {% assign person = item[1] %}
+      {% if person.role == role.key %}
+        <dt class="person">
+          {% if person.webpage %}
+          <a href="{{ person.webpage |escape }}">
+          {% endif %}
+            {{ person.display_name }}
+          {% if person.webpage %}
+          </a>
+          {% endif %}
+          <br />
+          {% if person.img %}
+            <img src="img/{{ person.img }}" alt="{{ person.display_name }}" class="img-rounded" width="100">
+          {% else %}
+            <img src="img/profile_blank.jpg" alt="{{ person.display_name }}" class="img-rounded" width="100">
+          {% endif %}
+        </dt>
+        <dd>
+          {% if person.bio %}
+            {{ person.bio | markdownify }}
+          {% endif %}
+        </dd>
+      {% endif %}
+    {% endfor %}
+    </dl>
+  {% else %}
+    <div class="row">
+    {% for item in site.data.people %}
+      {% assign person = item[1] %}
+      {% if person.role == role.key %}
+        <div class="col-md-3 people">
+          <b>
+          {% if person.webpage %}
+            <a href="{{ person.webpage |escape }}">
+          {% endif %}
+              {{ person.display_name }}
+          {% if person.webpage %}
+            </a>
+          {% endif %}
+          </b>
+          <br />
+          {% if person.img %}
+            <img src="img/{{ person.img }}" alt="{{ person.display_name }}" class="img-rounded" />
+          {% else %}
+            <img src="img/profile_blank.jpg" alt="{{ person.display_name }}" class="img-rounded" />
+          {% endif %}
+          <br>
+          <p>
+            {% if person.bio %}
+              {{ person.bio | markdownify }}
+            {% endif %}
+          </p>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
