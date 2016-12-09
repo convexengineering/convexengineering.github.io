@@ -15,3 +15,18 @@
     margin-top: 0px;
     font-weight: 200;
 }
+
+.left {
+    float:left;
+    overflow: auto;
+    width: 20%;
+}
+
+.right {
+    width: 80%;
+    overflow: auto;
+}
+
+.people {
+    overflow: auto;
+}
