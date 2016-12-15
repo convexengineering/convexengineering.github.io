@@ -50,8 +50,7 @@ bozturk:
     role: Master's Student
     img: berk.jpg
     webpage:
-    bio: |
-        <sub> Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT.
+    bio: <sub> Berk Ozturk is  Master's candidate in the AeroAstro Department at MIT.
         He received his B.S. in Aerospace Engineering from MIT. He is interested in the application of geometric and signomial programming 
         for the design and sensitivity analysis of novel aircraft concepts.
 mayork:
