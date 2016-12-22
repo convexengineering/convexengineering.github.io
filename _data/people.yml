@@ -1,11 +1,14 @@
 # People details
 eburn:
-    display_name: Ned Burnell
+    display_name: Edward Burnell
     email: eburn@mit.edu
     role: Master's Student
     img: ned.jpg
     webpage:
-    bio:
+    bio: Edward Burnell develops GPkit, and is interested in observing
+      engineer's design processes and mental models to inform software design
+      and motivate new algorithms. In his spare time he hosts potlucks,
+      makes cider, and teaches electronics.
 
 whoburg:
     display_name: Warren Hoburg
