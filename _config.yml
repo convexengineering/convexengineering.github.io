@@ -11,9 +11,12 @@ description:      "part of the Department of Aeronautics and Astronautics at MIT
 url:              http://hoburg.mit.edu
 baseurl:          /
 
-author:
-  name:           'Hoburg Research Group'
-  url:            http://hoburg.mit.edu
-
 paginate:         5
 paginate_path: "/posts/:num"
+
+roles:
+    - {key: Principal Investigator, name: Principal Investigator, display: short}
+    - {key: Doctoral Student, name: Doctoral Students, display: short}
+    - {key: Master's Student, name: Master's Students, display: short}
+    - {key: Undergraduate Researcher, name: Undergraduate Researchers, display: short}
+    - {key: Alumnus, name: Alumni, display: short}

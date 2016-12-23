@@ -1,17 +1,9 @@
-.person {
-    text-align: center;
-    width: 10rem;
-    display: inline-table;
-    margin: 0 1rem
-}
-.person .name {
-    margin-bottom: 0.25rem;
-    font-weight: 300;
-}
-.person img {
-    width: 10rem;
-}
-.person .caption {
-    margin-top: 0px;
-    font-weight: 200;
+.person .headshot { width: 30%; }
+
+.person .headshot img { margin-bottom: 1rem; }
+
+.person .bio p { padding-top: 1.35em; min-height: 12em;  font-size: 0.9em;}
+
+.left {
+    float:left;
 }

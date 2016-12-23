@@ -1,0 +1,132 @@
+# People details
+eburn:
+    display_name: Edward Burnell
+    email: eburn@mit.edu
+    role: Master's Student
+    img: ned.jpg
+    webpage:
+    bio: Edward Burnell develops GPkit, and is interested in observing
+      engineer's design processes and mental models to inform software design
+      and motivate new algorithms. In his spare time he hosts potlucks,
+      makes cider, and teaches electronics.
+
+whoburg:
+    display_name: Warren Hoburg
+    email: whoburg@mit.edu
+    role: Principal Investigator
+    img: woody.jpg
+    webpage:
+    bio:
+
+kirschen:
+    display_name: Philippe Kirschen
+    email: kirschen@mit.edu
+    role: Alumnus
+    img: philippe.jpg
+    webpage:
+    bio: Philippe is a graduate of the Hoburg Research Group, having received his
+      Master's degree in Aeronautics and Astronautics in 2016. Although he loves
+      finding global optima, the focus of Philippe's  research was the use of
+      signomial programming for aircraft design optimization.  During his time at
+      MIT, he was a recipient of the NASA Aeronautics Fellowship. Philippe
+      currently works as an Optimization Engineer for Hyperloop One, where he is
+      actively and enthusiastically using GPkit, whilst trying (and failing) not to
+      sound too preachy about how awesome geometric programming is.  Outside of using
+      powerful optimization techniques, Philippe enjoys rowing, cycling,
+      snowboarding, and petting strangers' dogs.
+
+ckarcher:
+    display_name: Cody Karcher
+    email: ckarcher@mit.edu
+    role: Master's Student
+    img: cody.jpg
+    webpage:
+    bio:
+
+snill:
+    display_name: Scott Nill
+    email: snill@mit.edu
+    role: Doctoral Student
+    img: scott.jpg
+    webpage:
+    bio:
+
+mjburton:
+    display_name: Michael Burton
+    email: mjburton@mit.edu
+    role: Master's Student
+    img: michael.jpg
+    webpage:
+    bio: Michael Burton specializes in geometric programming optimization and systems
+      engineering in the Aerospace Computational Dynamics Laboratory,
+      and is a recipient of both the MIT Presidential and NSF Graduate Research Fellowships.
+
+bozturk:
+    display_name: Berk Ozturk
+    email: bozturk@mit.edu
+    role: Master's Student
+    img: berk.jpg
+    webpage:
+    bio: Berk Ozturk is interested in the application of geometric and signomial programming
+      for the design and sensitivity analysis of novel aircraft concepts.
+      He received his B.S. in Aerospace Engineering from MIT.
+
+mayork:
+    display_name: Martin York
+    email: mayork@mit.edu
+    role: Master's Student
+    img: martin.jpg
+    webpage:
+    bio: Martin York's research focuses on signomial programming for aircraft conceptual design optimization.
+      As a member of the HRG’s D8 team, he is working with Aurora Flight Sciences to
+      perform a sensitivity and scaling analysis of the D8 aircraft concept.
+      Martin is also a cadet in Air Force ROTC and upon completion of his Master’s degree
+      will commission into the Air Force to pursue a career as a pilot.
+
+saab:
+    display_name: Ali Saab
+    email: saab@mit.edu
+    role: Master's Student
+    img: ali.jpg
+    webpage:
+    bio: Ali Saab began his MS in Computations for Design and Optimization at MIT in 2016,
+      and is currently working on Robust Geometric Programming formulations.
+      He received a BE in Mechanical Engineering and a BS in Mathematics from the American University of Beirut (AUB) in 2016.
+      As an undergraduate, he was a member of the Microfluidics lab and worked on designing a surface tension actuated micropump,
+      and used stochastic sampling to design fast algorithms for inverse particle tracking in stochastic flow fields.
+      He was a visiting student in the Aerospace Computational Design Laboratory,
+      and worked with the Uncertainty Quantification Group on implementing a model of the sap exudation in maple trees using MUQ,
+      and inferring the uncertain inputs to that model using MCMC methods.
+
+arthurb:
+    display_name: Arthur Brown
+    email: arthurb@mit.edu
+    role: Master's Student
+    img: arthur.jpg
+    webpage:
+    bio: Arthur Brown's research interests are primarily in clean-sheet design of innovative aircraft concepts,
+      and he is currently working on projects relating to the design and optimization of electric aircraft.
+      In the Computational Aerodynamics Lab at the University of Toronto Institute for Aerospace Studies,
+      Arthur used high-fidelity Reynolds-Averaged Navier-Stokes aerodynamic shape optimization
+      to redesign a series of airliner wings to burn less fuel by flying lower and more slowly.
+      He also worked for a year as an aerodynamicist with Blue Sky Solar Racing, the University of Toronto solar car racing team,
+      and for a summer in the same capacity with U of T's Human-Powered Vehicle Design Team.
+      In 2015, he became the first ever Canadian student to win the AIAA Aircraft Design Competition,
+      with an entry in the Undergraduate Individual category; he placed second in the same contest in 2016.
+      In his spare time, Arthur is an avid fisherman; he also enjoys long-distance running, basketball, military history, and chess.
+
+bjarni:
+    display_name: Bjarni Kristinsson
+    email: bjarni@mit.edu
+    role: Undergraduate Researcher
+    img: bjarni.jpg
+    webpage:
+    bio:
+
+lochie:
+    display_name: Lochie Ferrier
+    email: lochie@mit.edu
+    role: Undergraduate Researcher
+    img: lochie.jpg
+    webpage:
+    bio:
