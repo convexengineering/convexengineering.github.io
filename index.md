@@ -23,6 +23,10 @@ Tackling engineering design problems with tools from convex optimization.
 ### News
 <div class="news">
 <p>
+  2016-12-29:
+  Congratulations to Martin York on being named <a href="http://news.mit.edu/2016/martin-york-named-us-air-force-cadet-of-the-year-1229">United States Air Force Cadet of the year</a>
+</p>
+<p>
   2016-03-29:
   Congratulations to Mike Burton on winning an NSF Graduate Research Fellowship
 </p>
