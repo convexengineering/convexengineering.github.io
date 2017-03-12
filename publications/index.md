@@ -3,7 +3,13 @@ layout: page
 title: Publications
 ---
 
-Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](gpfitting.pdf). Optimization and Engineering, 2016.
+### Preprints
+
+Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](gassolar.pdf) | [code](https://github.com/hoburg/gas_solar_trade)
+
+### Journal papers
+
+Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](gpfitting.pdf). Optimization and Engineering, 2016. | [code](https://github.com/hoburg/gpfit)
 
 Warren Hoburg and Pieter Abbeel. [Geometric programming for aircraft design optimization](hoburgabbeel2014.pdf). AIAA Journal, 52(11):2414-2426, 2014.
 
