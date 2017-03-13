@@ -7,7 +7,7 @@ title: Publications
 
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](gassolar.pdf). | [code](https://github.com/hoburg/gas_solar_trade)
 
-### Refereed papers
+### Journal papers
 
 Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](gpfitting.pdf). Optimization and Engineering, 2016. | [code](https://github.com/hoburg/gpfit)
 
