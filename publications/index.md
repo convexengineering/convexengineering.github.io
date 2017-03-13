@@ -5,11 +5,13 @@ title: Publications
 
 ### Preprints
 
-Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](gassolar.pdf). | [code](https://github.com/hoburg/gas_solar_trade)
+Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](gassolar.pdf). | [code](http://github.com/hoburg/gas_solar_trade)
+
+Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming](turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
 
 ### Publications
 
-Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](gpfitting.pdf). Optimization and Engineering, 2016. | [code](https://github.com/hoburg/gpfit)
+Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](gpfitting.pdf). Optimization and Engineering, 2016. | [code](http://github.com/hoburg/gpfit)
 
 Warren Hoburg and Pieter Abbeel. [Geometric programming for aircraft design optimization](hoburgabbeel2014.pdf). AIAA Journal, 52(11):2414-2426, 2014.
 
