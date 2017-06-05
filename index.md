@@ -24,7 +24,7 @@ Tackling engineering design problems with tools from convex optimization.
 <div class="news">
 <p>
   2017-05-25:
-  Congratulations to Martin York for submitting his Master's thesis on <a href = "http://hoburg.mit.edu/publications/york_masters_thesis.pdf"> Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming</a>. 
+  Congratulations to Martin York on submitting his Master's thesis on <a href = "http://hoburg.mit.edu/publications/york_masters_thesis.pdf"> Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming</a>. 
 </p>
 <p>
   2016-12-29:
