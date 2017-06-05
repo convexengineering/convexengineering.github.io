@@ -23,6 +23,8 @@ Warren Hoburg and Pieter Abbeel. Geometric Programming for Aircraft Design Optim
 
 Warren Hoburg. [Aircraft Design Optimization as a Geometric Program](http://hoburg.mit.edu/publications/hoburg_phd_thesis.pdf). Ph.D. thesis, Electrical Engineering and Computer Science, UC Berkeley, 2013.
 
+Martin York. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming](http://hoburg.mit.edu/publications/york_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
+
 ### Foundational publications by other groups
 
 S. Boyd, S.-J. Kim, L. Vandenberghe, and A. Hassibi. [A tutorial on geometric programming](http://stanford.edu/~boyd/papers/gp_tutorial.html). Optimization and Engineering, 8(1):67-127, 2007.
