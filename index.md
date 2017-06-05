@@ -27,6 +27,10 @@ Tackling engineering design problems with tools from convex optimization.
   Congratulations to Martin York on submitting his Master's thesis on <a href ="/publications/york_masters_thesis.pdf"> Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming</a>. 
 </p>
 <p>
+  2017-05-25:
+  Congratulations to Cody Karcher on submitting his Master's thesis on <a href ="/publications/karcher_masters_thesis.pdf"> A Heuristic for Including Black Box Analysis Tools into a Geometric Programming Formulation</a>. 
+</p>
+<p>
   2016-12-29:
   Congratulations to Martin York on being named <a href="http://news.mit.edu/2016/martin-york-named-us-air-force-cadet-of-the-year-1229">United States Air Force Cadet of the year</a>.
 </p>

@@ -11,8 +11,9 @@ Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff
 
 ### Publications
 
-
 Martin York. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming](york_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
+
+Cody Karcher. [A Heuristic for Including Black Box Analysis Tools into a Geometric Programming Formulation](karcher_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
 
 Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions](http://hoburg.mit.edu/publications/gpfitting.pdf). Optimization and Engineering, 2016. | [code](http://github.com/hoburg/gpfit)
 
