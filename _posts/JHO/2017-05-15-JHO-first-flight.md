@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Jungle Hawk Owl, UAV designed using GPkit, has first flight!
+title: The Jungle Hawk Owl has first flight!
 author: bozturk
 ---
 
