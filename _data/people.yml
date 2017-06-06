@@ -40,8 +40,12 @@ ckarcher:
     email: ckarcher@mit.edu
     role: Master's Student
     img: cody.jpg
-    webpage:
-    bio:
+    webpage: http://web.mit.edu/ckarcher/www/
+    bio: Cody Karcher develops methods for utilizing black box analysis tools in
+      the geometric programming framework, bridging the gap between geometric programming
+      and classical multidisciplinary optimization.  His background includes work with subsonic
+      transport aircraft, small scale UAVs, and human powered vehicles.  Check out his website
+      <a href="http://web.mit.edu/ckarcher/www/">here</a>.
 
 snill:
     display_name: Scott Nill
