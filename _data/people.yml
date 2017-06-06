@@ -49,7 +49,10 @@ snill:
     role: Doctoral Student
     img: scott.jpg
     webpage:
-    bio:
+    bio: Scott Nill is interested in developing advanced manufacturing as a
+      digital enterprise. Within the HRG, Scott is sponsored by the Boeing Company
+      to create cost models of composite fabrication systems to inform operations,
+      technology development, and conceptual aircraft design.
 
 mjburton:
     display_name: Michael Burton
@@ -116,14 +119,6 @@ arthurb:
       In 2015, he became the first ever Canadian student to win the AIAA Aircraft Design Competition,
       with an entry in the Undergraduate Individual category; he placed second in the same contest in 2016.
       In his spare time, Arthur is an avid fisherman; he also enjoys long-distance running, basketball, military history, and chess.
-
-bjarni:
-    display_name: Bjarni Kristinsson
-    email: bjarni@mit.edu
-    role: Undergraduate Researcher
-    img: bjarni.jpg
-    webpage:
-    bio:
 
 lochie:
     display_name: Lochie Ferrier
