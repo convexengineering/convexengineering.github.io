@@ -15,7 +15,7 @@ whoburg:
     email: whoburg@mit.edu
     role: Principal Investigator
     img: woody.jpg
-    webpage:
+    webpage: http://aeroastro.mit.edu/whoburg
     bio:
 
 kirschen:
@@ -38,7 +38,7 @@ kirschen:
 ckarcher:
     display_name: Cody Karcher
     email: ckarcher@mit.edu
-    role: Master's Student
+    role: Doctoral Student
     img: cody.jpg
     webpage: http://web.mit.edu/ckarcher/www/
     bio: Cody Karcher develops methods for utilizing black box analysis tools in
