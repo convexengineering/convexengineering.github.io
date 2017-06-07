@@ -3,7 +3,11 @@ layout: default
 title: Home
 ---
 
-Tackling engineering design problems with tools from convex optimization.
+The goal of our research is more reliable and efficient ways to design engineering systems. To accomplish this, we draw heavily on mathematical tools from convex optimization. One product of our group's work is <a href="http://gpkit.readthedocs.io/en/latest/">GPkit</a>, a software package for geometric programming.
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
+First flight of the Jungle Hawk Owl 5-day endurance UAV, designed using GPkit. <a href="http://news.mit.edu/2017/drones-stay-aloft-five-days-0607">MIT News article</a>
 
 
 ### Recent posts
