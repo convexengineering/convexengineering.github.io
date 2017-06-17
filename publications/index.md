@@ -5,6 +5,9 @@ title: Publications
 
 ### Preprints
 
+Berk Ozturk, Michael Burton, Ostin Zarse, Warren Hoburg, Mark Drela, and John Hansman. [Design of an Unmanned Aerial Vehicle for
+Long-Endurance Communication Support](http://hoburg.mit.edu/publications/Aviation2017_JHO.pdf).
+
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](http://hoburg.mit.edu/publications/gassolar.pdf). | [code](http://github.com/hoburg/gas_solar_trade)
 
 Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming](http://hoburg.mit.edu/publications/turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
