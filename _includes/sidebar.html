@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="/" style="color: white;">
+        <a href="{{ site.baseurl }}" style="color: white;">
             <span style="font-weight: 200;letter-spacing: -0.15rem;">Hoburg</span>
             <span style="font-weight: 200;letter-spacing: -0.15rem;">Research</span>
             <span style="font-weight: 200;">                         Group</span>
@@ -12,7 +12,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == "/index.html" or page.url == "/" %} active{% endif %}" href="/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == "/index.html" or page.url == "/" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
       {% capture pageurl_trunc6 %}{{ page.url | truncate: 9 }}{% endcapture %}
       <a class="sidebar-nav-item{% if page.url == "/posts/" %} active{% endif %}" href="/posts">Posts</a>
       {% assign pages_list = site.pages %}

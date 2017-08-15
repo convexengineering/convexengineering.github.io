@@ -9,7 +9,7 @@ permalink:        /posts/:year/:title
 title:            Hoburg Research Group
 description:      "part of the Department of Aeronautics and Astronautics at MIT"
 url:              http://hoburg.mit.edu
-baseurl:          /
+baseurl:
 
 paginate:         5
 paginate_path: "/posts/:num"
