@@ -5,6 +5,8 @@ title: Publications
 
 ### Preprints
 
+Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design](http://hoburg.mit.edu/publications/spajoa_watermark.pdf). | [code](http://github.com/hoburg/SPaircraft)
+
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming](http://hoburg.mit.edu/publications/gassolar.pdf). | [code](http://github.com/hoburg/gas_solar_trade)
 
 Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming](http://hoburg.mit.edu/publications/turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
