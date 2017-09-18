@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Preprints
+
 Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/hoburg/SPaircraft)
 
 Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_watermark.pdf). | [code](http://github.com/hoburg/SPaircraft)
@@ -32,6 +33,8 @@ Warren Hoburg and Pieter Abbeel. Geometric Programming for Aircraft Design Optim
 Martin York. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/york_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
 
 Cody Karcher. [A Heuristic for Including Black Box Analysis Tools into a Geometric Programming Formulation]({{ site.baseurl }}/publications/karcher_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
+
+Philippe Kirschen. [Signomial Programming for Aircraft Design]({{ site.baseurl }}/publications/kirschen_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2016.
 
 Warren Hoburg. [Aircraft Design Optimization as a Geometric Program]({{ site.baseurl }}/publications/hoburg_phd_thesis.pdf). Ph.D. thesis, Electrical Engineering and Computer Science, UC Berkeley, 2013.
 
