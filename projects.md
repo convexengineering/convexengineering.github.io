@@ -14,14 +14,12 @@ _2015-03-12 [GPkit v0.5.0 released](posts/2016/gpkit-050)_
 <br>
 _2016-07-10 [GPkit v0.4.2 released](posts/2016/GPkit-Release)_
 
-### D8 Double Bubble
-[Code](https://github.com/hoburg/d8)
+### SP Aircraft
+[Code](https://github.com/convexengineering/SPaircraft)
 
 <img src="public/images/vsp_example.PNG" alt="vsp_example" style="width: 300px;"/>
 
-The D8 is a commercial aircraft configuration conceived by Prof. Mark Drela that is believed to enable dramatic fuel efficiency benefits.
-Although the benefits are well-studied for specific cases like a single-aisle replacement, relatively little is known about how the configuration benefit changes across a wide range of aircraft sizes.
-We are converting commercial aircraft sizing models from Drela's Transport Aircraft System Optimization (TASOPT) and other sources to Signomial Programming compatible forms, to enable rapid design space exploration and sensitivity analysis.
+SPaircraft is a signomial programming compatible transonic aircraft conceptual design optimization tool. It is of similar level of fidelity as TASOPT, and can perform the single- and multi-mission optimization of different configurations of aircraft. The most notable of these are conventional tube-and-wing aircraft, and the D8 double bubble aircraft, which promises dramatic fuel burn benefits over the conventional configuration. 
 
 _2017-05-20 [SP-compatible TASOPT completed](posts/2017/SP-commercial-aircraft-tasopt-v1)_
 <br>
