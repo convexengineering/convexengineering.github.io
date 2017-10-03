@@ -5,7 +5,7 @@ title: Projects
 
 <br>
 <img src="public/images/projects/gplogo.png" width="150px" alt="GPkit">
-[Code](https://www.github.com/hoburg/gpkit) |
+[Code](https://www.github.com/convexengineering/gpkit) |
 [Documentation](https://gpkit.rtfd.org)
 
 GPkit is a Python package for defining and manipulating geometric programming (GP) models.
@@ -27,7 +27,7 @@ _2016-08-05 [Future X-Plane](posts/2016/nasa-d8-green-aviation)_
 
 
 ### Jungle Hawk Owl
-[Code](https://www.github.com/hoburg/jho)
+[Code](https://www.github.com/convexengineering/jho)
 
 <img src="public/images/jho_takeoff.jpg" alt="jho_takeoff" style="width: 700px;"/>
 

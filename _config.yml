@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        /posts/:year/:title
 
 # Setup
-title:            Hoburg Research Group
-description:      "part of the Department of Aeronautics and Astronautics at MIT"
-url:              http://hoburg.mit.edu
+title:            Convex Engineering Group
+description:      "part of the Aerospace Computational Design Lab at MIT"
+url:              http://convexengineering.mit.edu
 baseurl:
 
 paginate:         5
