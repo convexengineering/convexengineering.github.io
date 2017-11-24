@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1 id="the-convex-engineering-group" style="margin-top: -2rem;">The Convex Engineering Group</h1>
+<h1 id="convex-engineering-group" style="margin-top: -2rem;">Convex Engineering Group</h1>
 
 **We use convex optimization to rethink the engineering design process.** Convexity helps teams develop a deep understanding of system tradeoffs by providing mathematical guarantees and solving for thousands of decision variables in seconds. In our modeling framework [gpkit], convexity also serves as a shared design language. This Convex Engineering approach was integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607).  Our tools are used at Aurora Flight Sciences for NASA’s D8 and LEARN3 initiatives as well as at Airbus, Hyperloop One, Shell Oil and Google \[x\].
 <br>
