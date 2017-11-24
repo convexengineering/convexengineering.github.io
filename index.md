@@ -3,52 +3,35 @@ layout: default
 title: Home
 ---
 
-The goal of our research is more reliable and efficient ways to design engineering systems. To accomplish this, we draw heavily on mathematical tools from convex optimization. One product of our group's work is <a href="http://gpkit.readthedocs.io/en/latest/">GPkit</a>, a software package for geometric programming.
-<br>
+# The Convex Engineering Group
 
-Another product of our work is the the Jungle Hawk Owl, a 5-day endurance UAV designed with GPkit. Below you can watch its first flight; more details are available in the [MIT News article](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), posts on this site, and the [code](https://www.github.com/hoburg/jho) used for its design.
+**We use convex optimization to rethink the engineering design process.** Convexity helps teams develop a deep understanding of system tradeoffs by providing mathematical guarantees and solving for thousands of decision variables in seconds. In our modeling framework [gpkit], convexity also serves as a shared design language. This Convex Engineering approach was integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607).  Our tools are used at Aurora Flight Sciences for NASA’s D8 and LEARN3 initiatives as well as at Airbus, Hyperloop One, Shell Oil and Google \[x\].
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
 
+We incorporate new insights and algorithms into these tools as patterns of their use mature. Additionally we maintain an [open-source library of reusable models][gplibrary].
+If you have any questions, or would like to get involved, [send us an email](mailto:gpkit@mit.edu)!
 
-### Recent posts
-<div class="posts">
-  {% for post in site.posts %}
-    <span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      |
-      {% if post.author %}{{ site.data.authors[post.author].name }},{% endif %}
-      {{ post.date | date_to_string }}
-      <br>
-    </span>
-  {% endfor %}
-</div>
+### Open Source Projects
+<!-- TODO: autogenerate the below from projects page data -->
+#### Software
+  - [gpkit] : disciplined object-oriented geometric programming
+  - [gpfit] : algorithms for data-driven design optimization 
+  - [robust] : modeling framework for robust GPs and SPs
+  - [gplibrary] : subsystem models for rapid prototyping
 
+#### Design Explorations
+  - [turbofan engines][turbofan]
+  - [commercial airliners][SPaircraft]
+  - [gas-/solar-powered high-altitude UAVs][gassolar]
+  - [STOL] and [eVTOL] on-demand aviation
 
-### News
-<div class="news">
-<p>
-  2017-05-25:
-  Congratulations to Martin York on submitting his Master's thesis on <a href ="/publications/york_masters_thesis.pdf"> Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming</a>. 
-</p>
-<p>
-  2017-05-25:
-  Congratulations to Cody Karcher on submitting his Master's thesis on <a href ="/publications/karcher_masters_thesis.pdf"> A Heuristic for Including Black Box Analysis Tools into a Geometric Programming Formulation</a>. 
-</p>
-<p>
-  2016-12-29:
-  Congratulations to Martin York on being named <a href="http://news.mit.edu/2016/martin-york-named-us-air-force-cadet-of-the-year-1229">United States Air Force Cadet of the year</a>.
-</p>
-<p>
-  2016-03-29:
-  Congratulations to Mike Burton on winning an NSF Graduate Research Fellowship.
-</p>
-<p>
-  2016-01-31:
-  Congratulations to Philippe Kirschen and the rest of the 
-  <a href="http://hyperloop.mit.edu/">MIT team</a>
-  on
-  <a href="http://www.wired.com/2016/02/mit-students-just-won-a-competition-to-design-a-hyperloop-pod/">winning</a>
-  the SpaceX Hyperloop design competition.
-</p>
-</div>
+[gpkit]: https://gpkit.readthedocs.io/en/latest/
+[gplibrary]: https://github.com/convexengineering/gplibrary
+[gpfit]: https://github.com/convexengineering/gpfit
+[robust]: https://github.com/convexengineering/robust
+[turbofan]: https://github.com/convexengineering/turbofan
+[SPaircraft]: https://github.com/convexengineering/SPaircraft
+[gassolar]: https://github.com/convexengineering/gassolar
+[STOL]: https://github.com/convexengineering/STOL
+[eVTOL]: https://github.com/convexengineering/eVTOL
