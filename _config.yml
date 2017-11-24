@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        /posts/:year/:title
 
 # Setup
-title:            Convex Engineering Group
-description:      "Department of Aeronautics and Astronautics, MIT"
-url:              http://hoburg.mit.edu
+title:            Convex Engineering
+description:      "Researchers rethinking the design process"
+url:              http://convexengineering.mit.edu
 baseurl:
 
 paginate:         5
