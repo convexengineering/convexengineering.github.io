@@ -72,6 +72,7 @@ a {
   text-decoration: none;
 }
 a strong {
+  font-weight: 500;
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */

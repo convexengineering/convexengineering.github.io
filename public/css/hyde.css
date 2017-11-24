@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Exo+2:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 /*
  *  __                  __
  * /\ \                /\ \
@@ -33,7 +33,7 @@
  */
 
 html {
-  font-family: "Exo 2", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -81,7 +81,6 @@ html {
   font-size: 2.75rem;
   line-height: 1;
   color: white;
-  font-family: "Exo 2";
 }
 
 /* Sidebar nav */
