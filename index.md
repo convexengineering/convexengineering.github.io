@@ -6,18 +6,14 @@ title: Home
 # Convex Engineering Group
 
 **We use convex optimization to rethink the engineering design process.**
- What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors? Engineering requires understanding tradeoffs across possible designs.
-When wingspan, altitude, and the thousands of other design decisions are represented as variables subject to convex constraints, mathematics of convexity let the boundary of tradeoffs and possibilities be mapped in seconds.
-Our [GPkit] modeling framework uses this to help design teams explore engineering possibilities and agree on fundamental tradeoffs.
+Convexity helps engineering teams develop a deep understanding of system tradeoffs by providing mathematical guarantees and solving for thousands of decision variables in seconds.
+In our modeling framework [GPkit], convexity also serves as a shared design language. This Convex Engineering approach was integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft designed to stay aloft for five days.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
-GPkit was integral to the concept and sizing of the  [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft designed to stay aloft for five days,
-and is in active use at Aurora Flight Sciences, Airbus, Hyperloop One, Shell Oil and Google \[x\].
-To use it yourself, see the [documentation](http://gpkit.readthedocs.io/en/latest/gettingstarted.html) or [model library][GPlibrary].
+Our tools are in active use at Aurora Flight Sciences, Airbus, Hyperloop One, Shell Oil and Google \[x\].
 
 ### Our Research is Open Source
-We incorporate new insights and algorithms into our tools, develop reusable subsystem models, and combine the two to explore interesting engineering systems.
-If you have any questions or would like to be involved, [send us an email](mailto:gpkit@mit.edu)!
+We incorporate new insights and algorithms into these tools as patterns of their use mature. Additionally we maintain an [open-source library of reusable models][GPlibrary].  If you have any questions, or would like to get involved, [send us an email](mailto:gpkit@mit.edu)! 
 
 <!-- TODO: autogenerate the below from projects page data -->
 #### Software Tools
