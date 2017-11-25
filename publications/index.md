@@ -11,9 +11,9 @@ Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of S
 
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/hoburg/gas_solar_trade)
 
-Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
-
 ### Publications
+
+Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
 
 Berk Ozturk, Michael Burton, Ostin Zarse, Warren Hoburg, Mark Drela, and John Hansman. [Design of an Unmanned Aerial Vehicle for
 Long-Endurance Communication Support]({{ site.baseurl }}/publications/Aviation2017_JHO.pdf). 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Denver, CO, June 2017.
