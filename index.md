@@ -5,11 +5,11 @@ title: Home
 
 <h1 id="convex-engineering-group" style="margin-top: -2rem;">Convex Engineering Group</h1>
 
-**We use convex optimization to rethink the engineering design process.** Convexity helps teams develop a deep understanding of system tradeoffs by providing mathematical guarantees and solving for thousands of decision variables in seconds. In our modeling framework [gpkit], convexity also serves as a shared design language. This Convex Engineering approach was integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607).  Our tools are used at Aurora Flight Sciences for NASA’s D8 and LEARN3 initiatives as well as at Airbus, Hyperloop One, Shell Oil and Google \[x\].
+**We use convex optimization to rethink the engineering design process.** The mathematical structure of convexity lets thousands of decision variables be solved with formal guarantees in seconds. Our modeling framework [gpkit] builds on this, using convexity as a shared design language that lets engineering teams construct an understanding of system tradeoffs that arises from their fundamental physics. This methodology was integral to the conception and prototyping of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), and is in active use at Aurora Flight Sciences (for NASA’s D8 and LEARN3 initiatives), Airbus, Hyperloop One, Shell Oil and Google \[x\].
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
 
-We incorporate new insights and algorithms into these tools as patterns of their use mature. Additionally we maintain an [open-source library of reusable models][gplibrary].
+We work to incorporate new insights and algorithms into these tools as patterns of their use mature, and to develop and maintain [open-source reusable engineering models.][gplibrary]
 If you have any questions, or would like to get involved, [send us an email](mailto:gpkit@mit.edu)!
 
 ### Open Source Projects
