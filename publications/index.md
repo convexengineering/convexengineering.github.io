@@ -5,20 +5,23 @@ title: Publications
 
 ### Preprints
 
-Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/hoburg/SPaircraft)
+Arthur Brown and Wesley L. Harris. [A Vehicle Design and Optimization Model for
+On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
-Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_watermark.pdf). | [code](http://github.com/hoburg/SPaircraft)
+Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
-Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/hoburg/gas_solar_trade)
+Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
+
+Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
 
 ### Publications
 
-Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/hoburg/turbofan)
+Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/convexengineering/turbofan)
 
 Berk Ozturk, Michael Burton, Ostin Zarse, Warren Hoburg, Mark Drela, and John Hansman. [Design of an Unmanned Aerial Vehicle for
 Long-Endurance Communication Support]({{ site.baseurl }}/publications/Aviation2017_JHO.pdf). 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Denver, CO, June 2017.
 
-Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions]({{ site.baseurl }}/publications/gpfitting.pdf). Optimization and Engineering, 2016. | [code](http://github.com/hoburg/gpfit)
+Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions]({{ site.baseurl }}/publications/gpfitting.pdf). Optimization and Engineering, 2016. | [code](http://github.com/convexengineering/gpfit)
 
 Philippe Kirschen, Edward Burnell, and Warren Hoburg. [Signomial Programming Models for Aircraft Design]({{ site.baseurl }}/publications/kirschenSP2016.pdf). 54th AIAA Aerospace Sciences Meeting San Diego, CA, Jan 2016.
 
