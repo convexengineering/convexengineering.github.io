@@ -7,7 +7,6 @@ permalink:        /posts/:year/:title
 
 # Setup
 title:            Convex Engineering
-description:      "Researchers rethinking the design process"
 url:              http://convexengineering.mit.edu
 baseurl:
 
