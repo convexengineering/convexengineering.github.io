@@ -5,8 +5,7 @@ title: Publications
 
 ### Preprints
 
-Arthur Brown and Wesley L. Harris. [A Vehicle Design and Optimization Model for
-On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
+Arthur Brown and Wesley L. Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
 Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
