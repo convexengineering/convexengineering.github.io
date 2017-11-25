@@ -5,7 +5,7 @@ title: Publications
 
 ### Preprints
 
-Arthur Brown and Wesley L. Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
+Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
 Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
@@ -29,6 +29,9 @@ Warren Hoburg and Pieter Abbeel. [Geometric programming for aircraft design opti
 Warren Hoburg and Pieter Abbeel. Fast Wind Turbine Design via Geometric Programming. 9th AIAA MDO Specialist Conference, Boston, MA, April 2013.
 
 Warren Hoburg and Pieter Abbeel. Geometric Programming for Aircraft Design Optimization. 8th AIAA MDO Specialist Conference, Honolulu, HI, April 2012.
+
+### Technical Reports
+Max Opgenoord, Brian Cohen, Warren Hoburg. [Comparison of Algorithms for Including Equality Constraints in Signomial Programming]({{ site.baseurl }}/publications/SignomialEquality.pdf).
 
 ### Theses
 
