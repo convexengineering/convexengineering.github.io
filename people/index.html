@@ -32,10 +32,10 @@ title: People
       </div>
       <div class="bio">
         {% if person.bio %}
+          {% if person.email %}
+            <a href="mailto:{{ person.email }}" style="font-size: 0.8rem;">{{ person.email }}</a>
+          {% endif %}
           {{ person.bio | markdownify }}
-        {% endif %}
-        {% if person.email %}
-          Email - <a href="mailto:{{ person.email }}">{{ person.email }}</a>
         {% endif %}
       </div>
     </div>
