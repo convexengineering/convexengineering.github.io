@@ -3,15 +3,15 @@ layout: default
 title: Home
 ---
 
-<h1 id="convex-engineering-group" style="margin-top: -2rem;">Convex Engineering Group</h1>
+# Convex Engineering Group
 
 **We use convex optimization to rethink the engineering design process.**
  What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors? Engineering requires understanding tradeoffs across possible designs.
 When wingspan, altitude, and the thousands of other design decisions are represented as variables subject to convex constraints, mathematics of convexity let the boundary of tradeoffs and possibilities be mapped in seconds.
-Our [GPkit] modeling framework uses this to helps design teams explore engineering possibilities and agree on fundamental tradeoffs.
+Our [GPkit] modeling framework uses this to help design teams explore engineering possibilities and agree on fundamental tradeoffs.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
-GPkit was integral to the concept and design of the  [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft that can stay aloft for five days,
+GPkit was integral to the concept and sizing of the  [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft designed to stay aloft for five days,
 and is in active use at Aurora Flight Sciences, Airbus, Hyperloop One, Shell Oil and Google \[x\].
 To use it yourself, see the [documentation](http://gpkit.readthedocs.io/en/latest/gettingstarted.html) or [model library][GPlibrary].
 
