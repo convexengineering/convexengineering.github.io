@@ -6,18 +6,17 @@ title: Home
 <h1 id="convex-engineering-group" style="margin-top: -2rem;">Convex Engineering Group</h1>
 
 **We use convex optimization to rethink the engineering design process.**
-What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors? Engineering requires understanding tradeoffs across possible designs.
-If wingspan, altitude, and the thousands of other necessary considerations can be formalized as decision variables subject to convex constraints,
-the mathematics of convexity let the full extent of possible designs be analyzed in seconds.
+ What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors? Engineering requires understanding tradeoffs across possible designs.
+When wingspan, altitude, and the thousands of other design decisions are represented as variables subject to convex constraints, mathematics of convexity let the boundary of tradeoffs and possibilities be mapped in seconds.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
-
-Our modeling framework [GPkit] helps engineering teams build these understandings of fundamental system tradeoffs.
-GPkit was integral to the concept and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft that can stay aloft for five days,
-and is in active use at Aurora Flight Sciences (for NASA’s D8 and LEARN3 initiatives), Airbus, Hyperloop One, Shell Oil and Google \[x\].
+<br>
+By using convexity as a shared design language, our [GPkit] modeling framework helps design teams explore and agree on engineering possibilities and fundamental tradeoffs.
+GPkit was integral to the concept and design of the  [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft that can stay aloft for five days,
+and is in active use at Aurora Flight Sciences, Airbus, Hyperloop One, Shell Oil and Google \[x\].
 To learn how to use it in your own work, see the [documentation](http://gpkit.readthedocs.io/en/latest/gettingstarted.html) or [model library][GPlibrary].
 
-### Open Source Research
+### Our Research is Open Source
 We incorporate new insights and algorithms into our tools, develop reusable subsystem models, and combine the two to explore interesting engineering systems.
 If you have any questions or would like to be involved, [send us an email](mailto:gpkit@mit.edu)!
 
