@@ -6,17 +6,16 @@ title: Home
 <h1 id="convex-engineering-group" style="margin-top: -2rem;">Convex Engineering Group</h1>
 
 **We use convex optimization to rethink the engineering design process.**
-Engineering requires understanding tradeoffs across possible designs.
-What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors?
-Flight altitude, wingspan, and the many other necessary considerations can be formalized as decision variables subject to algebraic constraints.
-The mathematical structure of convexity lets thousands of decision variables be analyzed in seconds to find the full extent of designs possible between a project's goals and its requirements.
-
-Our modeling framework [GPkit] uses convexity as a shared design language to help engineering teams build these understandings of fundamental system tradeoffs.
-GPkit was integral to the concept and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft that can stay aloft for five days,
-and is in active use at Aurora Flight Sciences (for NASA’s D8 and LEARN3 initiatives), Airbus, Hyperloop One, Shell Oil and Google \[x\]
-To learn how to use it in your own work, see the [documentation](http://gpkit.readthedocs.io/en/latest/gettingstarted.html) or [model library][GPlibrary].
+What length of night can a solar airplane fly through, and how does this depend on the weight of its sensors? Engineering requires understanding tradeoffs across possible designs.
+If wingspan, altitude, and the thousands of other necessary considerations can be formalized as decision variables subject to convex constraints,
+the mathematics of convexity let the full extent of possible designs be analyzed in seconds.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
+
+Our modeling framework [GPkit] helps engineering teams build these understandings of fundamental system tradeoffs.
+GPkit was integral to the concept and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft that can stay aloft for five days,
+and is in active use at Aurora Flight Sciences (for NASA’s D8 and LEARN3 initiatives), Airbus, Hyperloop One, Shell Oil and Google \[x\].
+To learn how to use it in your own work, see the [documentation](http://gpkit.readthedocs.io/en/latest/gettingstarted.html) or [model library][GPlibrary].
 
 ### Open Source Research
 We incorporate new insights and algorithms into our tools, develop reusable subsystem models, and combine the two to explore interesting engineering systems.
