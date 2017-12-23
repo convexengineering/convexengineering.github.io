@@ -5,15 +5,17 @@ title: Publications
 
 ### Preprints
 
+Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Comparison of Geometric and Signomial Programming with General Nonlinear Programming Techniques for Aircraft Design Optimization]({{ site.baseurl }}/publications/power_of_log.pdf). | [code](http://github.com/convexengineering/fmincon)
+
 Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
 Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient and Reliable Aircraft Multidisciplinary Design Optimization via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
-Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
-
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
 
 ### Publications
+
+Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
 Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/convexengineering/turbofan)
 
