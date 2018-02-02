@@ -37,6 +37,8 @@ Max Opgenoord, Brian Cohen, Warren Hoburg. [Comparison of Algorithms for Includi
 
 ### Theses
 
+Berk Ozturk. [Conceptual Engineering Design and Optimization Methodologies using Geometric Programming]({{ site.baseurl }}/publications/ozturk_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2018.
+
 Martin York. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/york_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
 
 Cody Karcher. [A Heuristic for Including Black Box Analysis Tools into a Geometric Programming Formulation]({{ site.baseurl }}/publications/karcher_masters_thesis.pdf). Master's Thesis. Aeronautics and Astronautics, MIT. 2017.
