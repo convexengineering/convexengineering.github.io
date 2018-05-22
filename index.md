@@ -6,14 +6,14 @@ title: Home
 # Convex Engineering Group
 
 **We use convex optimization to rethink the engineering design process.**
-Convexity helps engineering teams develop a deep understanding of system tradeoffs by providing mathematical guarantees and solving for thousands of decision variables in seconds.
-In our modeling framework [GPkit], convexity also serves as a shared design language. This Convex Engineering approach was integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft designed to stay aloft for five days.
+Convexity helps engineering teams develop a deep understanding of system tradeoffs by providing mathematical guarantees while solving for thousands of decision variables in seconds.
+In our modeling framework [GPkit], convexity serves as a shared design language. GPkit and the design process we've built around it are integral to the conception and design of the [MIT Jungle Hawk Owl](http://news.mit.edu/2017/drones-stay-aloft-five-days-0607), an unmanned aircraft designed to stay aloft for five days.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMu3x5WxpeM" frameborder="0" allowfullscreen></iframe>
-Our tools are in active use at Aurora Flight Sciences, Airbus, Hyperloop One, Shell Oil and Google \[x\].
+These methods are also in active use at Aurora Flight Sciences, Hyperloop One, Kitty Hawk, Shell Oil and Google \[x\].
 
 ### Our Research is Open Source
-We incorporate new insights and algorithms into these tools as patterns of their use mature. Additionally we maintain an [open-source library of reusable models][GPlibrary].  If you have any questions, or would like to get involved, [send us an email](mailto:gpkit@mit.edu)! 
+We incorporate new insights and algorithms into these tools as patterns of their use mature, and maintain an [open-source library of reusable models][GPlibrary]. If you have questions or would like to get involved, [send us an email](mailto:gpkit@mit.edu)! 
 
 <!-- TODO: autogenerate the below from projects page data -->
 #### Software Tools
