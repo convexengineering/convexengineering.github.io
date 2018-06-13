@@ -49,7 +49,7 @@ ckarcher:
 snill:
     display_name: Scott Nill
     email: snill@mit.edu
-    role: Doctoral Student
+    role: Alumnus
     img: scott.jpg
     webpage:
     bio: Scott Nill is interested in developing advanced manufacturing as a
@@ -70,7 +70,7 @@ mjburton:
 bozturk:
     display_name: Berk Ozturk
     email: bozturk@mit.edu
-    role: Master's Student
+    role: Doctoral Student
     img: berk.jpg
     webpage:
     bio: Berk Ozturk is interested in the application of geometric and signomial programming
@@ -126,7 +126,7 @@ arthurb:
 lochie:
     display_name: Lochie Ferrier
     email: lochie@mit.edu
-    role: Undergraduate Researcher
+    role: Alumnus
     img: lochie.jpg
     webpage:
     bio:
