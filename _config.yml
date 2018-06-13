@@ -16,5 +16,4 @@ paginate_path: "/posts/:num"
 roles:
     - {key: Doctoral Student, name: Doctoral Students, display: short}
     - {key: Master's Student, name: Master's Students, display: short}
-    - {key: Undergraduate Researcher, name: Undergraduate Researchers, display: short}
     - {key: Alumnus, name: Alumni, display: short}
