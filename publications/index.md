@@ -9,11 +9,11 @@ Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Compari
 
 Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
-Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt_watermark.pdf). | [code](http://github.com/convexengineering/SPaircraft)
-
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
 
 ### Publications
+
+Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
 Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). | [code](http://github.com/convexengineering/SPaircraft)
 
