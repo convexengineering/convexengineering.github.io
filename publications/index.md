@@ -11,13 +11,13 @@ Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Enduranc
 
 ### Publications
 
-Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). | [code](http://github.com/convexengineering/SPaircraft)
+Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). | [code](http://github.com/convexengineering/SPaircraft). AIAA Journal, 2018. 
 
-Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Comparison of Geometric and Signomial Programming with General Nonlinear Programming Techniques for Aircraft Design Optimization]({{ site.baseurl }}/publications/power_of_log.pdf). | [code](http://github.com/convexengineering/fmincon)
+Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Comparison of Geometric and Signomial Programming with General Nonlinear Programming Techniques for Aircraft Design Optimization]({{ site.baseurl }}/publications/power_of_log.pdf). | [code](http://github.com/convexengineering/fmincon). AIAA SciTech, San Diego, CA, January 2018.
 
-Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). | [code](http://github.com/convexengineering/SPaircraft)
+Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). | [code](http://github.com/convexengineering/SPaircraft). Journal of Aircraft, 2017. 
 
-Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/convexengineering/turbofan)
+Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). | [code](http://github.com/convexengineering/turbofan). Journal of Aircraft, 2017. 
 
 Berk Ozturk, Michael Burton, Ostin Zarse, Warren Hoburg, Mark Drela, and John Hansman. [Design of an Unmanned Aerial Vehicle for
 Long-Endurance Communication Support]({{ site.baseurl }}/publications/Aviation2017_JHO.pdf). 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Denver, CO, June 2017.
