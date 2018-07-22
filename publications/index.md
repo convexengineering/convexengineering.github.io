@@ -3,13 +3,11 @@ layout: page
 title: Publications
 ---
 
-### Preprints
+### Publications
 
 Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
-
-### Publications
 
 Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). AIAA Journal, 2018. | [code](http://github.com/convexengineering/SPaircraft).
 
