@@ -60,7 +60,7 @@ snill:
 mjburton:
     display_name: Michael Burton
     email: mjburton@mit.edu
-    role: Doctoral Student
+    role: Alumnus
     img: michael.jpg
     webpage:
     bio: Michael Burton specializes in geometric programming optimization and systems
@@ -74,10 +74,12 @@ bozturk:
     img: berk.jpg
     webpage:
     bio: Berk Ozturk is interested in the application of geometric and signomial programming
-      for the design and sensitivity analysis of novel aircraft concepts. In the CEG, he develops SP-compatible
-      commercial aircraft models, and seeks to leverage robust SPs in aerospace design. In his free time, 
-      he is an avid athlete, and captain of the MIT Road Cycling Team. He enjoys reading non-fiction, traveling and cooking. 
-      He received his B.S. in Aerospace Engineering from MIT.
+      for conceptual design. He seeks to leverage robust SPs in design under
+      uncertainty, and develops GP relaxations to solve mixed integer non-linear problems such as 
+      water network design and control. In his free time, 
+      he is an avid athlete, and VP of the MIT Cycling Team. 
+      He enjoys reading non-fiction, traveling and cooking. 
+      He received his B.S. and S.M. in Aerospace Engineering from MIT.
 
 mayork:
     display_name: Martin York
@@ -94,7 +96,7 @@ mayork:
 saab:
     display_name: Ali Saab
     email: saab@mit.edu
-    role: Master's Student
+    role: Alumnus
     img: ali.jpg
     webpage:
     bio: Ali Saab began his MS in Computations for Design and Optimization at MIT in 2016,
@@ -109,7 +111,7 @@ saab:
 arthurb:
     display_name: Arthur Brown
     email: arthurb@mit.edu
-    role: Master's Student
+    role: Doctoral Student
     img: arthur.jpg
     webpage:
     bio: Arthur Brown's research interests are primarily in clean-sheet design of innovative aircraft concepts,
