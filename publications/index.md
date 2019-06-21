@@ -7,7 +7,6 @@ title: Publications
 
 Berk Ozturk and Ali Saab. [Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming]({{site.baseurl}}/publications/robustSPpaper_AVIATION.pdf). | [code](http://github.com/1ozturkbe/robustSPpaper)
 
-
 Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
 
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
