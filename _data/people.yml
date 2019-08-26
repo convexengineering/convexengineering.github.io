@@ -132,3 +132,14 @@ lochie:
     img: lochie.jpg
     webpage:
     bio:
+
+priya:
+    display_name: Priya Pillai
+    email: pppillai@mit.edu
+    role: Master's Student
+    img: priya.jpg
+    webpage:
+    bio: Priya Pillai is pursuing her MEng degree in Computer Science and Molecular Biology.
+        She is interested in the potential application of robust GP and SP models to a broader
+        scope of problems and in the design process of creating these models. She enjoys
+        drawing, painting, and reading in her free time.
