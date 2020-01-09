@@ -5,24 +5,27 @@ title: Publications
 
 ### Publications
 
-Berk Ozturk and Ali Saab. [Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming]({{site.baseurl}}/publications/robustSPpaper_AVIATION.pdf). | [code](http://github.com/1ozturkbe/robustSPpaper)
+Edward Burnell, Nicole B. Damen, and Warren Hoburg. [GPkit: a Human-Centered Approach 
+to Convex Optimization in Engineering Design]({{site.baseurl}}/publications/GPkit_CHI2020.pdf). | [code](https://github.com/convexengineering/gpkit)
 
-Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](http://github.com/convexengineering/eVTOL)
+Berk Ozturk and Ali Saab. [Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming]({{site.baseurl}}/publications/robustSPpaper_AVIATION.pdf). | [code](https://github.com/1ozturkbe/robustSPpaper)
+
+Arthur Brown and Wesley Harris. [A Vehicle Design and Optimization Model for On-Demand Aviation]({{site.baseurl}}/publications/arthur_ondemand.pdf). | [code](https://github.com/convexengineering/eVTOL)
 
 Michael Burton and Warren Hoburg. [Solar-Electric and Gas Powered, Long-Endurance UAV Sizing via Geometric Programming]({{ site.baseurl }}/publications/gassolar.pdf). | [code](http://github.com/convexengineering/gassolar)
 
-Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). AIAA Journal, 2018. | [code](http://github.com/convexengineering/SPaircraft).
+Martin York, Berk Ozturk, Edward Burnell and Warren Hoburg. [Efficient Aircraft Multidisciplinary Design Optimization and Sensitivity Analysis via Signomial Programming]({{site.baseurl}}/publications/SP_tasopt.pdf). AIAA Journal, 2018. | [code](https://github.com/convexengineering/SPaircraft).
 
-Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Comparison of Geometric and Signomial Programming with General Nonlinear Programming Techniques for Aircraft Design Optimization]({{ site.baseurl }}/publications/power_of_log.pdf). AIAA SciTech, San Diego, CA, January 2018. | [code](http://github.com/convexengineering/fmincon).
+Philippe Kirschen and Warren Hoburg. [The Power of Log Transformation: A Comparison of Geometric and Signomial Programming with General Nonlinear Programming Techniques for Aircraft Design Optimization]({{ site.baseurl }}/publications/power_of_log.pdf). AIAA SciTech, San Diego, CA, January 2018. | [code](https://github.com/convexengineering/fmincon).
 
-Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). Journal of Aircraft, 2017. | [code](http://github.com/convexengineering/SPaircraft).
+Philippe Kirschen, Martin York, Berk Ozturk and Warren Hoburg. [Application of Signomial Programming to Aircraft Design]({{ site.baseurl }}/publications/spajoa_final.pdf). Journal of Aircraft, 2017. | [code](https://github.com/convexengineering/SPaircraft).
 
-Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). Journal of Aircraft, 2017. | [code](http://github.com/convexengineering/turbofan). 
+Martin York, Warren Hoburg, and Mark Drela. [Turbofan Engine Sizing and Tradeoff Analysis via Signomial Programming]({{ site.baseurl }}/publications/turbofanSP.pdf). Journal of Aircraft, 2017. | [code](https://github.com/convexengineering/turbofan). 
 
 Berk Ozturk, Michael Burton, Ostin Zarse, Warren Hoburg, Mark Drela, and John Hansman. [Design of an Unmanned Aerial Vehicle for
 Long-Endurance Communication Support]({{ site.baseurl }}/publications/Aviation2017_JHO.pdf). 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Denver, CO, June 2017.
 
-Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions]({{ site.baseurl }}/publications/gpfitting.pdf). Optimization and Engineering, 2016. | [code](http://github.com/convexengineering/gpfit)
+Warren Hoburg, Philippe Kirschen, and Pieter Abbeel. [Data fitting with geometric-programming-compatible softmax functions]({{ site.baseurl }}/publications/gpfitting.pdf). Optimization and Engineering, 2016. | [code](https://github.com/convexengineering/gpfit)
 
 Philippe Kirschen, Edward Burnell, and Warren Hoburg. [Signomial Programming Models for Aircraft Design]({{ site.baseurl }}/publications/kirschenSP2016.pdf). 54th AIAA Aerospace Sciences Meeting San Diego, CA, Jan 2016.
 
