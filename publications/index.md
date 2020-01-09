@@ -5,8 +5,7 @@ title: Publications
 
 ### Publications
 
-Edward Burnell, Nicole B. Damen, and Warren Hoburg. [GPkit: a Human-Centered Approach 
-to Convex Optimization in Engineering Design]({{site.baseurl}}/publications/GPkit_CHI2020.pdf). | [code](https://github.com/convexengineering/gpkit)
+Edward Burnell, Nicole B. Damen, and Warren Hoburg. [GPkit: a Human-Centered Approach to Convex Optimization in Engineering Design]({{site.baseurl}}/publications/GPkit_CHI2020.pdf). | [code](https://github.com/convexengineering/gpkit)
 
 Berk Ozturk and Ali Saab. [Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming]({{site.baseurl}}/publications/robustSPpaper_AVIATION.pdf). | [code](https://github.com/1ozturkbe/robustSPpaper)
 
