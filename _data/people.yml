@@ -13,7 +13,7 @@ eburn:
 whoburg:
     display_name: Warren Hoburg
     email: whoburg@mit.edu
-    role: Alumnus
+    role: Alum
     img: woody.jpg
     webpage: http://aeroastro.mit.edu/whoburg
     bio: Warren Hoburg is an Assistant Professor of Aeronautics and Astronautics at MIT, and a member of the Aerospace Computational Design Laboratory, the Center for Computational Engineering, and the Operations Research Center. His research focuses on efficient mathematical methods for designing engineering systems. Professor Hoburg received a BS degree in Aerospace Engineering from MIT, and a PhD in EECS from U.C. Berkeley. He teaches undergraduate courses in Dynamics (16.07) and Flight Vehicle Engineering (16.82). He is a two-time recipient of the AIAA Aeronautics and Astronautics Teaching Award in recognition of outstanding teaching at MIT. From 2013-2014 he worked for Boeing Commercial Airplanes Product Development on software for composite manufacturing processes. From 2010-2013, he was a seasonal member of Yosemite Search and Rescue, and an Operations Leader for the Bay Area Mountain Rescue Unit.
@@ -21,7 +21,7 @@ whoburg:
 kirschen:
     display_name: Philippe Kirschen
     email: kirschen@mit.edu
-    role: Alumnus
+    role: Alum
     img: philippe.jpg
     webpage:
     bio: Philippe is a graduate of the Convex Engineering Group, having received his
@@ -38,7 +38,7 @@ kirschen:
 ckarcher:
     display_name: Cody Karcher
     email: ckarcher@mit.edu
-    role: Alumnus
+    role: Alum
     img: cody.jpg
     webpage: http://web.mit.edu/ckarcher/www/
     bio: Cody Karcher develops methods for utilizing black box analysis tools in
@@ -49,7 +49,7 @@ ckarcher:
 snill:
     display_name: Scott Nill
     email: snill@mit.edu
-    role: Alumnus
+    role: Alum
     img: scott.jpg
     webpage:
     bio: Scott Nill is interested in developing advanced manufacturing as a
@@ -60,7 +60,7 @@ snill:
 mjburton:
     display_name: Michael Burton
     email: mjburton@mit.edu
-    role: Alumnus
+    role: Alum
     img: michael.jpg
     webpage:
     bio: Michael Burton specializes in geometric programming optimization and systems
@@ -84,7 +84,7 @@ bozturk:
 mayork:
     display_name: Martin York
     email: mayork@mit.edu
-    role: Alumnus
+    role: Alum
     img: martin.jpg
     webpage:
     bio: Martin York's research focuses on signomial programming for aircraft conceptual design optimization.
@@ -96,7 +96,7 @@ mayork:
 saab:
     display_name: Ali Saab
     email: saab@mit.edu
-    role: Alumnus
+    role: Alum
     img: ali.jpg
     webpage:
     bio: Ali Saab began his MS in Computations for Design and Optimization at MIT in 2016,
@@ -128,18 +128,19 @@ arthurb:
 lochie:
     display_name: Lochie Ferrier
     email: lochie@mit.edu
-    role: Alumnus
+    role: Alum
     img: lochie.jpg
     webpage:
     bio:
 
-priya:
+ppillai:
     display_name: Priya Pillai
     email: pppillai@mit.edu
-    role: Alumnus
+    role: Alum
     img: priya.jpg
-    webpage:
-    bio: Priya Pillai is pursuing her MEng degree in Computer Science and Molecular Biology.
+    webpage: priyappillai.github.io
+    bio: Priya Pillai completed her MEng degree in Computer Science and Molecular Biology in 2020.
         She is interested in the potential application of robust GP and SP models to a broader
         scope of problems and in the design process of creating these models. She enjoys
-        drawing, painting, and reading in her free time.
+        drawing, painting, and reading in her free time. She is currently working in the Sabeti 
+        Lab at the Broad as a software engineer.

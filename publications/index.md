@@ -5,6 +5,8 @@ title: Publications
 
 ### Publications
 
+Priya P. Pillai, Edward Burnell, Xiqing Wang, and Maria C. Yang. [Effects of Robust Convex Optimization on Early-Stage Design Space Exploratory Behavior]({{site.baseurl}}/publications/EarlyStageUncertainty.pdf). | [code](https://github.com/convexengineering/robust_experiment)
+
 Edward Burnell, Nicole B. Damen, and Warren Hoburg. [GPkit: a Human-Centered Approach to Convex Optimization in Engineering Design]({{site.baseurl}}/publications/GPkit_CHI2020.pdf). | [code](https://github.com/convexengineering/gpkit)
 
 Berk Ozturk and Ali Saab. [Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming]({{site.baseurl}}/publications/robustSPpaper_AVIATION.pdf). | [code](https://github.com/1ozturkbe/robustSPpaper)
